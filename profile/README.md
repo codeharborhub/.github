@@ -53,7 +53,7 @@ Here’s how you can get started:
 4. Submit a pull request.  
 5. Become part of our growing community!  
 
-👉 Check out our [Contribution Guide](https://github.com/codeharborhub/codeharborhub.github.io/blob/main/CONTRIBUTING.md).  
+👉 Check out our [Contribution Guide](https://github.com/codeharborhub/codeharborhub.github.io/blob/main/CONTRIBUTING.md).
 
 ---
 
@@ -63,7 +63,7 @@ Here’s how you can get started:
 * Learn through **guided tutorials and roadmaps**.  
 * Be part of a **global developer community**.  
 * Get recognition for your contributions on GitHub.  
-* Participate in **open-source events** and challenges.  
+* Participate in **open-source events** and challenges.
 
 ---
 
@@ -77,14 +77,14 @@ Stay updated on all our [Events](https://codeharborhub.github.io/events).
 
 ---
 
-
 ## Connect With Us  
 
-* GitHub: [CodeHarborHub](https://github.com/CodeHarborHub)  
+* GitHub: [CodeHarborHub](https://github.com/CodeHarborHub) 
 * Website: [codeharborhub.github.io](https://codeharborhub.github.io)  
 * Twitter (X): [CodeWithAjay](https://x.com/CodesWithAjay)
 * LinkedIn: [Ajay Dhangar](https://www.linkedin.com/in/ajay-dhangar/)  
-* Email: codeharborhub@gmail.com  
+* Email: codeharborhub@gmail.com
+* [⭐ Support @ajay-dhangar for the GitHub Stars Program](https://codeharborhub.github.io/github-stars-nominate)
 
 ---
 
